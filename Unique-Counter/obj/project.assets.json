@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ConsoleTableExt/2.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ConsoleTableExt.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ConsoleTableExt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleTableExt/2.0.2": {
+      "sha512": "jMW+4qdfpmXZSg6b8Cwyl2VkQGrGdl/ak53nHzBckqF2KXqcxYhvL3AaQfbJIknaj1PZklD9FXncfnYGEkyndw==",
+      "type": "package",
+      "path": "consoletableext/2.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "consoletableext.2.0.2.nupkg.sha512",
+        "consoletableext.nuspec",
+        "lib/net45/ConsoleTableExt.dll",
+        "lib/netstandard2.0/ConsoleTableExt.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "ConsoleTableExt >= 2.0.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mwhit\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Unique-Counter\\C-Sharp\\Unique-Counter\\Unique-Counter.csproj",
+      "projectName": "Unique-Counter",
+      "projectPath": "D:\\Unique-Counter\\C-Sharp\\Unique-Counter\\Unique-Counter.csproj",
+      "packagesPath": "C:\\Users\\mwhit\\.nuget\\packages\\",
+      "outputPath": "D:\\Unique-Counter\\C-Sharp\\Unique-Counter\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mwhit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "dependencies": {
+          "ConsoleTableExt": {
+            "target": "Package",
+            "version": "[2.0.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

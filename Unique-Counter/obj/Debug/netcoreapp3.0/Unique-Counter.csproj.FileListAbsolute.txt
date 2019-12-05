@@ -1,0 +1,13 @@
+D:\Unique-Counter\C-Sharp\Unique-Counter\bin\Debug\netcoreapp3.0\Unique-Counter.exe
+D:\Unique-Counter\C-Sharp\Unique-Counter\obj\Debug\netcoreapp3.0\Unique-Counter.csprojAssemblyReference.cache
+D:\Unique-Counter\C-Sharp\Unique-Counter\obj\Debug\netcoreapp3.0\Unique-Counter.AssemblyInfoInputs.cache
+D:\Unique-Counter\C-Sharp\Unique-Counter\obj\Debug\netcoreapp3.0\Unique-Counter.AssemblyInfo.cs
+D:\Unique-Counter\C-Sharp\Unique-Counter\bin\Debug\netcoreapp3.0\Unique-Counter.deps.json
+D:\Unique-Counter\C-Sharp\Unique-Counter\bin\Debug\netcoreapp3.0\Unique-Counter.runtimeconfig.json
+D:\Unique-Counter\C-Sharp\Unique-Counter\bin\Debug\netcoreapp3.0\Unique-Counter.runtimeconfig.dev.json
+D:\Unique-Counter\C-Sharp\Unique-Counter\bin\Debug\netcoreapp3.0\Unique-Counter.dll
+D:\Unique-Counter\C-Sharp\Unique-Counter\bin\Debug\netcoreapp3.0\Unique-Counter.pdb
+D:\Unique-Counter\C-Sharp\Unique-Counter\bin\Debug\netcoreapp3.0\ConsoleTableExt.dll
+D:\Unique-Counter\C-Sharp\Unique-Counter\obj\Debug\netcoreapp3.0\Unique-Counter.csproj.CopyComplete
+D:\Unique-Counter\C-Sharp\Unique-Counter\obj\Debug\netcoreapp3.0\Unique-Counter.dll
+D:\Unique-Counter\C-Sharp\Unique-Counter\obj\Debug\netcoreapp3.0\Unique-Counter.pdb

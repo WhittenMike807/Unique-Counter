@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Unique-Counter/1.0.0": {
+        "dependencies": {
+          "ConsoleTableExt": "2.0.2"
+        },
+        "runtime": {
+          "Unique-Counter.dll": {}
+        }
+      },
+      "ConsoleTableExt/2.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/ConsoleTableExt.dll": {
+            "assemblyVersion": "2.0.2.0",
+            "fileVersion": "2.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unique-Counter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleTableExt/2.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jMW+4qdfpmXZSg6b8Cwyl2VkQGrGdl/ak53nHzBckqF2KXqcxYhvL3AaQfbJIknaj1PZklD9FXncfnYGEkyndw==",
+      "path": "consoletableext/2.0.2",
+      "hashPath": "consoletableext.2.0.2.nupkg.sha512"
+    }
+  }
+}
